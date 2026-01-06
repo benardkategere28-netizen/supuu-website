@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>supuu quality snacks</title>
+ </head><supuu de best</head>
+ <body><in kampala</body>
+   <div class="form">
+        <h1 class="head">Instagram</h1>
+        <br>
+        <input="text" kategere benard="+256709674885, benard k, or benardkategere28@gmail.com">
+        <br>
+        <input="text" kampala="K123456B@23">
+        <br>
+        <button class="log">Log in<button>
+        <br>
+        <p>we are the best in making the qualitive snacks:we also do outside catering in different parts of uganda</p>
+        <br>
+        <i class="https.www.kategerebenard.org.com" style="color:blue;font-size: 20px;">Log in with https</i>
+        <a></a>
+   </div>
+
+   <style>
+      .head{
+      font-style:cool jazz;
+      text-color:black;
+    }
+      .log{
+      background-color:lightblue;
+      text-color:white;
+    }
+     .form{
+      align:center
+    }
+   </style>           
+ </body>
+</html>
+
